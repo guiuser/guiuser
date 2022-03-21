@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guiuser
 - 👀 I’m interested in becoming at least more than GUI user
-- 🌱 I’m currently learning git
+- 🌱 I’m currently learning git, html, javascript
 - 💞️ I’m looking to collaborate on anything after that my friend will not call me only GUI user
 
 <!---
